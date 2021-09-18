@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  justify-content: center;
+  margin-top: 15rem;
+  font-size: 1.5rem;
+}
+
+.container{
+  text-align: center;
+  justify-content: center;
+}
+
+h1{
+  color:rgb(95, 5, 5);
+}
+
+select{
+  background-color:transparent;
+  font-size: 1.5rem;
+  border: none;
+  color:black;
+}
+
+input{
+  font-size: 1.5rem;
+  border-radius: .2rem;
+  border: none;
+}
+
+.rate{
+  font-weight: bold;
+  font-size: 1.8rem;
+  color:red;
+  margin:  1rem auto;
+}
+
+button{
+  font: 1em sans-serif;
+  margin: 1rem;
+  border-radius: .5rem;
+  background-color: seagreen;
+  border: none;
+  cursor: pointer;
+}
